@@ -1,0 +1,1 @@
+SF Org Summary is designed to provide a comprehensive summary of various data points within your Salesforce Org instance(s). It allows you to quickly gather essential information including key metatdata, Apex test results, code line counters and thereby aiding in the analysis and understanding of your Salesforce environment.
