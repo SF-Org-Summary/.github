@@ -1,7 +1,7 @@
 # SF Org Summary
 
 ## Overview
-SF Org Summary is a Salesforce CLI plugin designed to provide a comprehensive summary of your Salesforce Org instance(s). It offers insights into your Org's key metadata, test results, code line metrics, usage of limit related resources and more, helping you understand and monitor your Salesforce environment.
+Lightning Flow Scanner is a free and open-source VSCode Extension and SF CLI Plugin designed to provide a comprehensive summary of your Salesforce org, including information about components, code analysis, health checks, limits, and tests. The tool leverages Salesforce CLI and various APIs to gather data and generate a detailed summary. 
 
 ## Features
 
