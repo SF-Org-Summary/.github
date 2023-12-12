@@ -1,7 +1,7 @@
 # SF Org Summary
 
 ## Overview
-SF Org Summary is a free and open-source VSCode Extension and SF CLI Plugin designed to provide a comprehensive summary of your Salesforce org, including information about components, code analysis, health checks, limits, and tests. The tool leverages Salesforce CLI and various APIs to gather data and generate a detailed summary. 
+SF Org Summary is a free and open-source VSCode Extension and SF CLI Plugin designed to provide a comprehensive summary of your Salesforce org, including information about components, code & vulnerability analysis, health checks, limits, and tests. The tool leverages Salesforce CLI and various APIs to gather data and generate a detailed summary. 
 
 ## Features
 
